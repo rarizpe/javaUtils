@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e3cd86-19da-47a2-9449-90a46f9a78ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuPvDp797FVcL9d1V8pA75GNHQ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringReplace">
+    <configuration name="DayNameFromDDMMYYYY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayNameFromDDMMYYYY" />
+      <module name="Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneDimentionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneDimentionArray" />
+      <module name="Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringReplace" />
+      <module name="Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringsLenghts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsLenghts" />
+      <module name="Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimentionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimentionArray" />
+      <module name="Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringReplace" />
+        <item itemvalue="Application.StringsLenghts" />
+        <item itemvalue="Application.TwoDimentionArray" />
+        <item itemvalue="Application.OneDimentionArray" />
+        <item itemvalue="Application.DayNameFromDDMMYYYY" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e3cd86-19da-47a2-9449-90a46f9a78ba" name="Default Changelist" comment="" />
+      <created>1583789734237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583789734237</updated>
+      <workItem from="1583789736133" duration="1897000" />
+      <workItem from="1583791935646" duration="382000" />
+      <workItem from="1583794446122" duration="987000" />
+      <workItem from="1583799227703" duration="1936000" />
+      <workItem from="1583859244718" duration="14413000" />
+      <workItem from="1583945961456" duration="12624000" />
+      <workItem from="1584055514571" duration="1642000" />
+      <workItem from="1584118905002" duration="2180000" />
+      <workItem from="1584123619837" duration="3155000" />
+      <workItem from="1584136725453" duration="3600000" />
+      <workItem from="1584463635108" duration="2035000" />
+      <workItem from="1584630143058" duration="1167000" />
+      <workItem from="1584633184320" duration="19000" />
+      <workItem from="1585757187291" duration="768000" />
+      <workItem from="1586366451408" duration="1657000" />
+      <workItem from="1586376028919" duration="1042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583790573403">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="225" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583790573403" />
+    <state x="525" y="136" key="#xdebugger.evaluate" timestamp="1583948659011">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="525" y="136" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1583948659011" />
+    <state width="440" height="466" key="DebuggerActiveHint" timestamp="1586368422648">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="440" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1586368422648" />
+    <state x="550" y="188" key="FileChooserDialogImpl" timestamp="1584633191598">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="550" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584633191598" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1586377214039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586377214039" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1586377214039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586377214039" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1586377214039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586377214039" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1586377214039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586377214039" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1586377214023">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586377214023" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1586377214023">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586377214023" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1586377214023">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586377214023" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1586377214023">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586377214023" />
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1586377178278">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586377178278" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Datatypes.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringsLenghts.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringReplace.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
